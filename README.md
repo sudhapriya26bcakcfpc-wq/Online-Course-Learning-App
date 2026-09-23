@@ -197,3 +197,16 @@ https://www.figma.com/design/dKAiXTnh3RYB1FlDeqjAZg/Online-Course-learning-App?n
 
 
 **Fynzo – Discovering & Growing is a colourful and interactive learning app concept that brings courses, videos, quizzes, progress tracking, and achievements together in one easy-to-use platform. It focuses on creating a positive learning environment where users can learn, practice, track their progress, and grow their skills.**
+
+🌸 **Developed By** 🌸
+
+👩‍💻 **Name: M. Sudhapriya**
+
+
+🎓 **Course: I BCA**
+
+
+🏫 **College: Kamaraj College**
+
+
+💖 **Project: YUMI – Shopping App** 🛍️✨
