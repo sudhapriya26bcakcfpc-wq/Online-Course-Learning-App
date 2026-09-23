@@ -22,7 +22,7 @@ https://www.figma.com/design/dKAiXTnh3RYB1FlDeqjAZg/Online-Course-learning-App?n
 
 🎯 **2. Project Objective**
 
-### The main objective of Fynzo is to create a user-friendly digital learning platform where students can:
+**The main objective of Fynzo is to create a user-friendly digital learning platform where students can:**
 
 📚 **Learn new skills through structured courses**
 
@@ -86,7 +86,7 @@ https://www.figma.com/design/dKAiXTnh3RYB1FlDeqjAZg/Online-Course-learning-App?n
 
 
 
-### The design includes:
+**The design includes:**
 
 
 
