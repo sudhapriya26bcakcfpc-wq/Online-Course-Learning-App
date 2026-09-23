@@ -3,7 +3,7 @@
 
 ### Prototype Link : 
 
-https://www.figma.com/proto/dKAiXTnh3RYB1FlDeqjAZg/Online-Course-learning-App?node-id=0-1&t=4uqq4RFwTukRINuH-1
+https://www.figma.com/proto/dKAiXTnh3RYB1FlDeqjAZg/Online-Course-learning-App?node-id=0-1&t=l1ReaDL8PS3PdiKP-1
 
 ### Design Link : 
 
