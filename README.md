@@ -16,13 +16,13 @@ https://www.figma.com/design/dKAiXTnh3RYB1FlDeqjAZg/Online-Course-learning-App?n
 
 
 
-**Fynzo is a modern and interactive learning application designed to make education simple, engaging, and enjoyable. The app provides learners with courses, video lessons, quizzes, progress tracking, and personalized profile features in one place.**
+Fynzo is a modern and interactive learning application designed to make education simple, engaging, and enjoyable. The app provides learners with courses, video lessons, quizzes, progress tracking, and personalized profile features in one place.
 
 
 
 🎯 **2. Project Objective**
 
-**The main objective of Fynzo is to create a user-friendly digital learning platform where students can:**
+The main objective of Fynzo is to create a user-friendly digital learning platform where students can:
 
 📚 **Learn new skills through structured courses**
 
@@ -49,25 +49,25 @@ https://www.figma.com/design/dKAiXTnh3RYB1FlDeqjAZg/Online-Course-learning-App?n
 
 
 
-🏠 **Home Dashboard – Personalized welcome screen with recommended courses.**
+🏠 **Home Dashboard** – Personalized welcome screen with recommended courses.
 
 
-📖 **Course Library – Browse and explore different courses by category.**
+📖 **Course Library** – Browse and explore different courses by category.
 
 
-🔍 **Search Courses – Quickly find courses using the search feature.**
+🔍 **Search Courses** – Quickly find courses using the search feature.
 
 
-🎬 **Video Lessons – Learn through engaging video-based lessons.**
+🎬 **Video Lessons** – Learn through engaging video-based lessons.
 
 
-📑 **Course Chapters – Follow lessons in an organized sequence.**
+📑 **Course Chapters** – Follow lessons in an organized sequence.
 
 
-🧠 **Interactive Quizzes – Answer questions and test understanding.**
+🧠 **Interactive Quizzes** – Answer questions and test understanding.
 
 
-📈 **Progress Tracking – Monitor course completion and learning progress.**
+📈 **Progress Tracking** – Monitor course completion and learning progress.
 
 
 🏅 **Badges & Achievements – Reward learners for completing learning goals.**
@@ -82,7 +82,7 @@ https://www.figma.com/design/dKAiXTnh3RYB1FlDeqjAZg/Online-Course-learning-App?n
 💗 **4. UI/UX Design**
 
 
-**Fynzo uses a soft and colourful visual design with lavender, pink, blue, yellow, and white tones. The interface is designed to feel friendly, clean, and comfortable for students.**
+Fynzo uses a soft and colourful visual design with lavender, pink, blue, yellow, and white tones. The interface is designed to feel friendly, clean, and comfortable for students.
 
 
 
@@ -117,40 +117,40 @@ https://www.figma.com/design/dKAiXTnh3RYB1FlDeqjAZg/Online-Course-learning-App?n
 🚀 **Welcome Screen**
 
 
-**Introduces the Fynzo brand with a “Discovering & Growing” concept and a Get Started button.**
+Introduces the Fynzo brand with a “Discovering & Growing” concept and a Get Started button.
 
 🔐 **Login Screen**
 
-**Allows users to sign in using email/phone and password or continue with Google.**
+Allows users to sign in using email/phone and password or continue with Google.
 
 🏠 **Home Screen**
 
 
-**Displays a personalized greeting, search bar, course recommendations, categories, and learning progress.**
+Displays a personalized greeting, search bar, course recommendations, categories, and learning progress.
 
 📚 **All Courses Screen**
 
 
-**Shows available courses such as Python, UI/UX Design, Digital Marketing, JavaScript, and Data Science.**
+Shows available courses such as Python, UI/UX Design, Digital Marketing, JavaScript, and Data Science.
 
 🎓 **Course Details Screen**
 
 
-**Provides course information, instructor details, rating, price, description, syllabus, and enrollment option.**
+Provides course information, instructor details, rating, price, description, syllabus, and enrollment option.
 
 🎥 **Lesson Screen**
 
 
-**Provides video lessons, chapter navigation, progress percentage, and Previous/Next controls.**
+Provides video lessons, chapter navigation, progress percentage, and Previous/Next controls.
 
 📝 **Quiz Screen**
 
-**Allows learners to answer multiple-choice questions and view their quiz performance.**
+Allows learners to answer multiple-choice questions and view their quiz performance.
 
 👤 **Profile Screen**
 
 
-**Displays enrolled courses, badges, learning streaks, profile settings, and personal information.**
+Displays enrolled courses, badges, learning streaks, profile settings, and personal information.
 
 
 
@@ -159,7 +159,7 @@ https://www.figma.com/design/dKAiXTnh3RYB1FlDeqjAZg/Online-Course-learning-App?n
 
 
 
-**Fynzo combines learning + motivation + progress tracking in a single application. Features such as daily streaks, badges, course progress, quizzes, and recommendations help make learning more interactive and encourage users to continue learning regularly.**
+Fynzo combines learning + motivation + progress tracking in a single application. Features such as daily streaks, badges, course progress, quizzes, and recommendations help make learning more interactive and encourage users to continue learning regularly.
 
 
 
@@ -188,7 +188,7 @@ https://www.figma.com/design/dKAiXTnh3RYB1FlDeqjAZg/Online-Course-learning-App?n
 
 
 
-**The design goal of Fynzo is to provide a learning experience that is simple, attractive, organized, and motivating, while keeping important learning features easily accessible.**
+The design goal of Fynzo is to provide a learning experience that is simple, attractive, organized, and motivating, while keeping important learning features easily accessible.
 
 
 
@@ -196,7 +196,7 @@ https://www.figma.com/design/dKAiXTnh3RYB1FlDeqjAZg/Online-Course-learning-App?n
 
 
 
-**Fynzo – Discovering & Growing is a colourful and interactive learning app concept that brings courses, videos, quizzes, progress tracking, and achievements together in one easy-to-use platform. It focuses on creating a positive learning environment where users can learn, practice, track their progress, and grow their skills.**
+Fynzo – Discovering & Growing is a colourful and interactive learning app concept that brings courses, videos, quizzes, progress tracking, and achievements together in one easy-to-use platform. It focuses on creating a positive learning environment where users can learn, practice, track their progress, and grow their skills.
 
 🌸 **Developed By** 🌸
 
