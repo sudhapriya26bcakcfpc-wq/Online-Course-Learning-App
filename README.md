@@ -16,7 +16,9 @@ https://www.figma.com/design/dKAiXTnh3RYB1FlDeqjAZg/Online-Course-learning-App?n
 
 
 
-### Fynzo is a modern and interactive learning application designed to make education simple, engaging, and enjoyable. The app provides learners with courses, video lessons, quizzes, progress tracking, and personalized profile features in one place.
+**Fynzo is a modern and interactive learning application designed to make education simple, engaging, and enjoyable. The app provides learners with courses, video lessons, quizzes, progress tracking, and personalized profile features in one place.**
+
+
 
 🎯 **2. Project Objective**
 
@@ -40,7 +42,11 @@ https://www.figma.com/design/dKAiXTnh3RYB1FlDeqjAZg/Online-Course-learning-App?n
 👤 **Manage their personal learning profile**
 
 
+
+
 💙 **3. Key Features**
+
+
 
 
 🏠 **Home Dashboard – Personalized welcome screen with recommended courses.**
@@ -75,9 +81,14 @@ https://www.figma.com/design/dKAiXTnh3RYB1FlDeqjAZg/Online-Course-learning-App?n
 
 💗 **4. UI/UX Design**
 
-### Fynzo uses a soft and colourful visual design with lavender, pink, blue, yellow, and white tones. The interface is designed to feel friendly, clean, and comfortable for students.
+
+**Fynzo uses a soft and colourful visual design with lavender, pink, blue, yellow, and white tones. The interface is designed to feel friendly, clean, and comfortable for students.**
+
+
 
 ### The design includes:
+
+
 
 ✨ **Rounded cards and buttons**
 
@@ -97,44 +108,92 @@ https://www.figma.com/design/dKAiXTnh3RYB1FlDeqjAZg/Online-Course-learning-App?n
 🧭 **Easy bottom navigation**
 
 
+
 💜 **5. Main Screens**
+
+
 
 
 🚀 **Welcome Screen**
 
 
-### Introduces the Fynzo brand with a “Discovering & Growing” concept and a Get Started button.
+**Introduces the Fynzo brand with a “Discovering & Growing” concept and a Get Started button.**
 
 🔐 **Login Screen**
 
-
-### Allows users to sign in using email/phone and password or continue with Google.
+**Allows users to sign in using email/phone and password or continue with Google.**
 
 🏠 **Home Screen**
 
 
-### Displays a personalized greeting, search bar, course recommendations, categories, and learning progress.
+**Displays a personalized greeting, search bar, course recommendations, categories, and learning progress.**
 
 📚 **All Courses Screen**
 
 
-### Shows available courses such as Python, UI/UX Design, Digital Marketing, JavaScript, and Data Science.
+**Shows available courses such as Python, UI/UX Design, Digital Marketing, JavaScript, and Data Science.**
 
 🎓 **Course Details Screen**
 
 
-### Provides course information, instructor details, rating, price, description, syllabus, and enrollment option.
+**Provides course information, instructor details, rating, price, description, syllabus, and enrollment option.**
 
 🎥 **Lesson Screen**
 
 
-### Provides video lessons, chapter navigation, progress percentage, and Previous/Next controls.
+**Provides video lessons, chapter navigation, progress percentage, and Previous/Next controls.**
 
 📝 **Quiz Screen**
 
-### Allows learners to answer multiple-choice questions and view their quiz performance.
+**Allows learners to answer multiple-choice questions and view their quiz performance.**
 
 👤 **Profile Screen**
 
 
-### Displays enrolled courses, badges, learning streaks, profile settings, and personal information.
+**Displays enrolled courses, badges, learning streaks, profile settings, and personal information.**
+
+
+
+
+🌟 **6. Unique Features**
+
+
+
+**Fynzo combines learning + motivation + progress tracking in a single application. Features such as daily streaks, badges, course progress, quizzes, and recommendations help make learning more interactive and encourage users to continue learning regularly.**
+
+
+
+💚 **7. Target Users**
+
+
+
+**Fynzo can be designed for:**
+
+👩‍🎓 **Students**
+
+
+👨‍💻 **Beginners learning technical skills**
+
+
+🎨 **Users interested in design**
+
+
+📈 **Learners developing professional skills**
+
+
+🌱 **Anyone interested in continuous learning**
+
+
+💙 **9. Design Goal**
+
+
+
+**The design goal of Fynzo is to provide a learning experience that is simple, attractive, organized, and motivating, while keeping important learning features easily accessible.**
+
+
+
+🌸 **10. Conclusion**
+
+
+
+**Fynzo – Discovering & Growing is a colourful and interactive learning app concept that brings courses, videos, quizzes, progress tracking, and achievements together in one easy-to-use platform. It focuses on creating a positive learning environment where users can learn, practice, track their progress, and grow their skills.**
